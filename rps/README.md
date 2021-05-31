@@ -1,3 +1,16 @@
+## Rock, Paper, Scissors
+
+Implement a version of the game Rock-Paper-Scissors (https://en.wikipedia.org/wiki/Rock-paper-scissors )
+
+In order to run the development server locally you should use the following commands:
+
+```
+npm install
+ng serve
+```
+and open your browser on [http://localhost:4200/](http://localhost:4200/)
+
+
 # Rockpaperscissors
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
