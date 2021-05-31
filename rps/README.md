@@ -10,6 +10,8 @@ ng serve
 ```
 and open your browser on [http://localhost:4200/](http://localhost:4200/)
 
+![app screenshot](screenshots/rps.png "Rock-Paper-Scissors App")
+
 
 # Rockpaperscissors
 
