@@ -2,6 +2,13 @@
 
 You need to have java installed
 
+Way to run FizzBuzz from terminal:
+![app screenshot](screenshots/RunFizzBuzz.png "Run FizzBuzz from terminal")
+
+Way to run BridgePattern from terminal:
+![app screenshot](screenshots/RunBridgePatternMain.png "Run Bridge Pattern Main from terminal")
+
+
 1.`FizzBuzz`
 
 Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
