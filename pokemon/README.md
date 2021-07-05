@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+# The Pokemon Problem with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The Pokémon Problem 
+Given the API endpoint: https://pokeapi.co/api/v2/pokemon/ 
+Create a list of the Pokémon indicating their name and a link 
+to redirect on click. 
+The list should be limited to 15 Pokémon per page and users
+should be able to click next and previous in order to navigate 
+to the next and previous page of Pokémon.
+Redirecting to new page of Pokémon selected, list the
+abilities of the particular Pokémon
+Note: Any preferred IDE and language can be used, although 
+if the stack we are looking is used, it can be considered as a bonus. 
+
+APIs 
+GET / - https://pokeapi.co/api/v2/pokemon?limit=1
+
+GET /id - https://pokeapi.co/api/v2/pokemon/1
 
 ## Available Scripts
 
